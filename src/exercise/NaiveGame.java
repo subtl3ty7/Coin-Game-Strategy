@@ -3,9 +3,7 @@ package exercise;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * Created by Soeren on 22.04.2018.
- */
+
 public class NaiveGame extends GameAlgorithm {
 
     @Override
