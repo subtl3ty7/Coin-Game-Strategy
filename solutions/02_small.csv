@@ -1,0 +1,801 @@
+id,name,instance_type,ns,elements
+0,Naive Game,Small,233800,1
+0,DynamicGame,Small,15400,1
+1,Naive Game,Small,300,1
+1,DynamicGame,Small,1300,1
+2,Naive Game,Small,300,1
+2,DynamicGame,Small,900,1
+3,Naive Game,Small,300,1
+3,DynamicGame,Small,1700,1
+4,Naive Game,Small,400,1
+4,DynamicGame,Small,1000,1
+5,Naive Game,Small,400,1
+5,DynamicGame,Small,5000,1
+6,Naive Game,Small,400,1
+6,DynamicGame,Small,900,1
+7,Naive Game,Small,200,1
+7,DynamicGame,Small,1000,1
+8,Naive Game,Small,300,1
+8,DynamicGame,Small,800,1
+9,Naive Game,Small,300,1
+9,DynamicGame,Small,900,1
+10,Naive Game,Small,300,1
+10,DynamicGame,Small,900,1
+11,Naive Game,Small,300,1
+11,DynamicGame,Small,800,1
+12,Naive Game,Small,200,1
+12,DynamicGame,Small,900,1
+13,Naive Game,Small,300,1
+13,DynamicGame,Small,900,1
+14,Naive Game,Small,300,1
+14,DynamicGame,Small,800,1
+15,Naive Game,Small,300,1
+15,DynamicGame,Small,800,1
+16,Naive Game,Small,300,1
+16,DynamicGame,Small,900,1
+17,Naive Game,Small,300,1
+17,DynamicGame,Small,900,1
+18,Naive Game,Small,200,1
+18,DynamicGame,Small,900,1
+19,Naive Game,Small,300,1
+19,DynamicGame,Small,800,1
+20,Naive Game,Small,200,1
+20,DynamicGame,Small,900,1
+21,Naive Game,Small,200,1
+21,DynamicGame,Small,900,1
+22,Naive Game,Small,300,1
+22,DynamicGame,Small,900,1
+23,Naive Game,Small,300,1
+23,DynamicGame,Small,900,1
+24,Naive Game,Small,200,1
+24,DynamicGame,Small,900,1
+25,Naive Game,Small,300,1
+25,DynamicGame,Small,900,1
+26,Naive Game,Small,300,1
+26,DynamicGame,Small,900,1
+27,Naive Game,Small,300,1
+27,DynamicGame,Small,900,1
+28,Naive Game,Small,200,1
+28,DynamicGame,Small,1200,1
+29,Naive Game,Small,300,1
+29,DynamicGame,Small,1000,1
+30,Naive Game,Small,300,1
+30,DynamicGame,Small,900,1
+31,Naive Game,Small,300,1
+31,DynamicGame,Small,800,1
+32,Naive Game,Small,300,1
+32,DynamicGame,Small,800,1
+33,Naive Game,Small,300,1
+33,DynamicGame,Small,900,1
+34,Naive Game,Small,300,1
+34,DynamicGame,Small,800,1
+35,Naive Game,Small,300,1
+35,DynamicGame,Small,900,1
+36,Naive Game,Small,300,1
+36,DynamicGame,Small,800,1
+37,Naive Game,Small,300,1
+37,DynamicGame,Small,900,1
+38,Naive Game,Small,200,1
+38,DynamicGame,Small,900,1
+39,Naive Game,Small,200,1
+39,DynamicGame,Small,900,1
+40,Naive Game,Small,300,1
+40,DynamicGame,Small,800,1
+41,Naive Game,Small,300,1
+41,DynamicGame,Small,800,1
+42,Naive Game,Small,300,1
+42,DynamicGame,Small,800,1
+43,Naive Game,Small,300,1
+43,DynamicGame,Small,900,1
+44,Naive Game,Small,300,1
+44,DynamicGame,Small,800,1
+45,Naive Game,Small,400,1
+45,DynamicGame,Small,1400,1
+46,Naive Game,Small,300,1
+46,DynamicGame,Small,1000,1
+47,Naive Game,Small,300,1
+47,DynamicGame,Small,900,1
+48,Naive Game,Small,400,1
+48,DynamicGame,Small,1200,1
+49,Naive Game,Small,200,1
+49,DynamicGame,Small,900,1
+50,Naive Game,Small,600,2
+50,DynamicGame,Small,1600,2
+51,Naive Game,Small,400,2
+51,DynamicGame,Small,9500,2
+52,Naive Game,Small,700,2
+52,DynamicGame,Small,3700,2
+53,Naive Game,Small,700,2
+53,DynamicGame,Small,3000,2
+54,Naive Game,Small,500,2
+54,DynamicGame,Small,1600,2
+55,Naive Game,Small,500,2
+55,DynamicGame,Small,1300,2
+56,Naive Game,Small,400,2
+56,DynamicGame,Small,1200,2
+57,Naive Game,Small,400,2
+57,DynamicGame,Small,1200,2
+58,Naive Game,Small,400,2
+58,DynamicGame,Small,1200,2
+59,Naive Game,Small,300,2
+59,DynamicGame,Small,1100,2
+60,Naive Game,Small,400,2
+60,DynamicGame,Small,1600,2
+61,Naive Game,Small,300,2
+61,DynamicGame,Small,1100,2
+62,Naive Game,Small,400,2
+62,DynamicGame,Small,1000,2
+63,Naive Game,Small,300,2
+63,DynamicGame,Small,1000,2
+64,Naive Game,Small,400,2
+64,DynamicGame,Small,1300,2
+65,Naive Game,Small,400,2
+65,DynamicGame,Small,1200,2
+66,Naive Game,Small,400,2
+66,DynamicGame,Small,1200,2
+67,Naive Game,Small,400,2
+67,DynamicGame,Small,1200,2
+68,Naive Game,Small,400,2
+68,DynamicGame,Small,1100,2
+69,Naive Game,Small,400,2
+69,DynamicGame,Small,1100,2
+70,Naive Game,Small,300,2
+70,DynamicGame,Small,1100,2
+71,Naive Game,Small,300,2
+71,DynamicGame,Small,1100,2
+72,Naive Game,Small,300,2
+72,DynamicGame,Small,1100,2
+73,Naive Game,Small,300,2
+73,DynamicGame,Small,1100,2
+74,Naive Game,Small,600,2
+74,DynamicGame,Small,2100,2
+75,Naive Game,Small,400,2
+75,DynamicGame,Small,1300,2
+76,Naive Game,Small,300,2
+76,DynamicGame,Small,1100,2
+77,Naive Game,Small,400,2
+77,DynamicGame,Small,1100,2
+78,Naive Game,Small,400,2
+78,DynamicGame,Small,1100,2
+79,Naive Game,Small,300,2
+79,DynamicGame,Small,1000,2
+80,Naive Game,Small,300,2
+80,DynamicGame,Small,1100,2
+81,Naive Game,Small,300,2
+81,DynamicGame,Small,1000,2
+82,Naive Game,Small,300,2
+82,DynamicGame,Small,1100,2
+83,Naive Game,Small,400,2
+83,DynamicGame,Small,900,2
+84,Naive Game,Small,400,2
+84,DynamicGame,Small,1000,2
+85,Naive Game,Small,300,2
+85,DynamicGame,Small,1000,2
+86,Naive Game,Small,300,2
+86,DynamicGame,Small,1100,2
+87,Naive Game,Small,400,2
+87,DynamicGame,Small,1100,2
+88,Naive Game,Small,400,2
+88,DynamicGame,Small,1100,2
+89,Naive Game,Small,300,2
+89,DynamicGame,Small,1000,2
+90,Naive Game,Small,300,2
+90,DynamicGame,Small,900,2
+91,Naive Game,Small,300,2
+91,DynamicGame,Small,1000,2
+92,Naive Game,Small,300,2
+92,DynamicGame,Small,1300,2
+93,Naive Game,Small,300,2
+93,DynamicGame,Small,1100,2
+94,Naive Game,Small,300,2
+94,DynamicGame,Small,1000,2
+95,Naive Game,Small,300,2
+95,DynamicGame,Small,1100,2
+96,Naive Game,Small,300,2
+96,DynamicGame,Small,1000,2
+97,Naive Game,Small,200,2
+97,DynamicGame,Small,900,2
+98,Naive Game,Small,300,2
+98,DynamicGame,Small,900,2
+99,Naive Game,Small,300,2
+99,DynamicGame,Small,900,2
+100,Naive Game,Small,1000,3
+100,DynamicGame,Small,2000,3
+101,Naive Game,Small,800,3
+101,DynamicGame,Small,1600,3
+102,Naive Game,Small,700,3
+102,DynamicGame,Small,1500,3
+103,Naive Game,Small,700,3
+103,DynamicGame,Small,1500,3
+104,Naive Game,Small,700,3
+104,DynamicGame,Small,1400,3
+105,Naive Game,Small,1900,3
+105,DynamicGame,Small,1500,3
+106,Naive Game,Small,600,3
+106,DynamicGame,Small,1400,3
+107,Naive Game,Small,600,3
+107,DynamicGame,Small,1400,3
+108,Naive Game,Small,600,3
+108,DynamicGame,Small,1400,3
+109,Naive Game,Small,600,3
+109,DynamicGame,Small,1400,3
+110,Naive Game,Small,600,3
+110,DynamicGame,Small,1500,3
+111,Naive Game,Small,600,3
+111,DynamicGame,Small,1500,3
+112,Naive Game,Small,600,3
+112,DynamicGame,Small,1400,3
+113,Naive Game,Small,600,3
+113,DynamicGame,Small,1400,3
+114,Naive Game,Small,600,3
+114,DynamicGame,Small,2700,3
+115,Naive Game,Small,700,3
+115,DynamicGame,Small,1400,3
+116,Naive Game,Small,700,3
+116,DynamicGame,Small,1500,3
+117,Naive Game,Small,600,3
+117,DynamicGame,Small,3400,3
+118,Naive Game,Small,1300,3
+118,DynamicGame,Small,3700,3
+119,Naive Game,Small,1200,3
+119,DynamicGame,Small,3900,3
+120,Naive Game,Small,1200,3
+120,DynamicGame,Small,4100,3
+121,Naive Game,Small,1200,3
+121,DynamicGame,Small,3600,3
+122,Naive Game,Small,1200,3
+122,DynamicGame,Small,3900,3
+123,Naive Game,Small,1300,3
+123,DynamicGame,Small,3800,3
+124,Naive Game,Small,1200,3
+124,DynamicGame,Small,6800,3
+125,Naive Game,Small,1200,3
+125,DynamicGame,Small,3700,3
+126,Naive Game,Small,1200,3
+126,DynamicGame,Small,3600,3
+127,Naive Game,Small,1900,3
+127,DynamicGame,Small,5300,3
+128,Naive Game,Small,1200,3
+128,DynamicGame,Small,3700,3
+129,Naive Game,Small,1200,3
+129,DynamicGame,Small,3900,3
+130,Naive Game,Small,1100,3
+130,DynamicGame,Small,3400,3
+131,Naive Game,Small,1300,3
+131,DynamicGame,Small,2800,3
+132,Naive Game,Small,900,3
+132,DynamicGame,Small,2700,3
+133,Naive Game,Small,800,3
+133,DynamicGame,Small,2700,3
+134,Naive Game,Small,700,3
+134,DynamicGame,Small,1700,3
+135,Naive Game,Small,600,3
+135,DynamicGame,Small,1600,3
+136,Naive Game,Small,800,3
+136,DynamicGame,Small,2900,3
+137,Naive Game,Small,700,3
+137,DynamicGame,Small,1600,3
+138,Naive Game,Small,700,3
+138,DynamicGame,Small,1300,3
+139,Naive Game,Small,700,3
+139,DynamicGame,Small,1400,3
+140,Naive Game,Small,700,3
+140,DynamicGame,Small,1400,3
+141,Naive Game,Small,700,3
+141,DynamicGame,Small,2100,3
+142,Naive Game,Small,600,3
+142,DynamicGame,Small,1600,3
+143,Naive Game,Small,700,3
+143,DynamicGame,Small,1700,3
+144,Naive Game,Small,600,3
+144,DynamicGame,Small,1400,3
+145,Naive Game,Small,700,3
+145,DynamicGame,Small,1500,3
+146,Naive Game,Small,600,3
+146,DynamicGame,Small,1400,3
+147,Naive Game,Small,600,3
+147,DynamicGame,Small,1400,3
+148,Naive Game,Small,600,3
+148,DynamicGame,Small,1500,3
+149,Naive Game,Small,500,3
+149,DynamicGame,Small,1400,3
+150,Naive Game,Small,1000,4
+150,DynamicGame,Small,2400,4
+151,Naive Game,Small,800,4
+151,DynamicGame,Small,2200,4
+152,Naive Game,Small,800,4
+152,DynamicGame,Small,1800,4
+153,Naive Game,Small,700,4
+153,DynamicGame,Small,2100,4
+154,Naive Game,Small,800,4
+154,DynamicGame,Small,2000,4
+155,Naive Game,Small,700,4
+155,DynamicGame,Small,1800,4
+156,Naive Game,Small,1200,4
+156,DynamicGame,Small,4169300,4
+157,Naive Game,Small,1100,4
+157,DynamicGame,Small,3200,4
+158,Naive Game,Small,800,4
+158,DynamicGame,Small,1900,4
+159,Naive Game,Small,700,4
+159,DynamicGame,Small,12000,4
+160,Naive Game,Small,800,4
+160,DynamicGame,Small,2000,4
+161,Naive Game,Small,800,4
+161,DynamicGame,Small,1800,4
+162,Naive Game,Small,700,4
+162,DynamicGame,Small,1700,4
+163,Naive Game,Small,900,4
+163,DynamicGame,Small,2500,4
+164,Naive Game,Small,700,4
+164,DynamicGame,Small,1800,4
+165,Naive Game,Small,700,4
+165,DynamicGame,Small,2900,4
+166,Naive Game,Small,600,4
+166,DynamicGame,Small,1700,4
+167,Naive Game,Small,700,4
+167,DynamicGame,Small,1800,4
+168,Naive Game,Small,700,4
+168,DynamicGame,Small,1700,4
+169,Naive Game,Small,700,4
+169,DynamicGame,Small,1800,4
+170,Naive Game,Small,700,4
+170,DynamicGame,Small,1700,4
+171,Naive Game,Small,700,4
+171,DynamicGame,Small,1700,4
+172,Naive Game,Small,700,4
+172,DynamicGame,Small,1600,4
+173,Naive Game,Small,800,4
+173,DynamicGame,Small,1700,4
+174,Naive Game,Small,700,4
+174,DynamicGame,Small,2000,4
+175,Naive Game,Small,700,4
+175,DynamicGame,Small,1600,4
+176,Naive Game,Small,700,4
+176,DynamicGame,Small,1600,4
+177,Naive Game,Small,700,4
+177,DynamicGame,Small,1700,4
+178,Naive Game,Small,700,4
+178,DynamicGame,Small,1700,4
+179,Naive Game,Small,700,4
+179,DynamicGame,Small,1600,4
+180,Naive Game,Small,700,4
+180,DynamicGame,Small,3100,4
+181,Naive Game,Small,800,4
+181,DynamicGame,Small,1600,4
+182,Naive Game,Small,8300,4
+182,DynamicGame,Small,1800,4
+183,Naive Game,Small,1000,4
+183,DynamicGame,Small,1600,4
+184,Naive Game,Small,800,4
+184,DynamicGame,Small,1600,4
+185,Naive Game,Small,800,4
+185,DynamicGame,Small,1600,4
+186,Naive Game,Small,700,4
+186,DynamicGame,Small,1600,4
+187,Naive Game,Small,800,4
+187,DynamicGame,Small,1600,4
+188,Naive Game,Small,700,4
+188,DynamicGame,Small,1600,4
+189,Naive Game,Small,800,4
+189,DynamicGame,Small,1600,4
+190,Naive Game,Small,800,4
+190,DynamicGame,Small,1600,4
+191,Naive Game,Small,800,4
+191,DynamicGame,Small,1600,4
+192,Naive Game,Small,800,4
+192,DynamicGame,Small,1700,4
+193,Naive Game,Small,700,4
+193,DynamicGame,Small,2100,4
+194,Naive Game,Small,700,4
+194,DynamicGame,Small,1500,4
+195,Naive Game,Small,800,4
+195,DynamicGame,Small,1600,4
+196,Naive Game,Small,800,4
+196,DynamicGame,Small,1700,4
+197,Naive Game,Small,800,4
+197,DynamicGame,Small,1600,4
+198,Naive Game,Small,700,4
+198,DynamicGame,Small,1600,4
+199,Naive Game,Small,800,4
+199,DynamicGame,Small,1500,4
+200,Naive Game,Small,2000,5
+200,DynamicGame,Small,3000,5
+201,Naive Game,Small,2400,5
+201,DynamicGame,Small,2500,5
+202,Naive Game,Small,1500,5
+202,DynamicGame,Small,2300,5
+203,Naive Game,Small,1500,5
+203,DynamicGame,Small,2200,5
+204,Naive Game,Small,1500,5
+204,DynamicGame,Small,2100,5
+205,Naive Game,Small,1600,5
+205,DynamicGame,Small,2200,5
+206,Naive Game,Small,1400,5
+206,DynamicGame,Small,2000,5
+207,Naive Game,Small,2100,5
+207,DynamicGame,Small,2100,5
+208,Naive Game,Small,1500,5
+208,DynamicGame,Small,2300,5
+209,Naive Game,Small,1500,5
+209,DynamicGame,Small,2200,5
+210,Naive Game,Small,1500,5
+210,DynamicGame,Small,2200,5
+211,Naive Game,Small,1400,5
+211,DynamicGame,Small,3500,5
+212,Naive Game,Small,1400,5
+212,DynamicGame,Small,2000,5
+213,Naive Game,Small,1300,5
+213,DynamicGame,Small,2200,5
+214,Naive Game,Small,2000,5
+214,DynamicGame,Small,2100,5
+215,Naive Game,Small,1600,5
+215,DynamicGame,Small,2100,5
+216,Naive Game,Small,1400,5
+216,DynamicGame,Small,2100,5
+217,Naive Game,Small,1400,5
+217,DynamicGame,Small,2100,5
+218,Naive Game,Small,1500,5
+218,DynamicGame,Small,2000,5
+219,Naive Game,Small,1400,5
+219,DynamicGame,Small,2000,5
+220,Naive Game,Small,1900,5
+220,DynamicGame,Small,2100,5
+221,Naive Game,Small,1300,5
+221,DynamicGame,Small,2200,5
+222,Naive Game,Small,1400,5
+222,DynamicGame,Small,2100,5
+223,Naive Game,Small,1400,5
+223,DynamicGame,Small,2000,5
+224,Naive Game,Small,1300,5
+224,DynamicGame,Small,2100,5
+225,Naive Game,Small,1400,5
+225,DynamicGame,Small,2000,5
+226,Naive Game,Small,1900,5
+226,DynamicGame,Small,2000,5
+227,Naive Game,Small,1300,5
+227,DynamicGame,Small,2600,5
+228,Naive Game,Small,1300,5
+228,DynamicGame,Small,2000,5
+229,Naive Game,Small,1500,5
+229,DynamicGame,Small,3400,5
+230,Naive Game,Small,1400,5
+230,DynamicGame,Small,2000,5
+231,Naive Game,Small,1300,5
+231,DynamicGame,Small,2100,5
+232,Naive Game,Small,1800,5
+232,DynamicGame,Small,2100,5
+233,Naive Game,Small,1300,5
+233,DynamicGame,Small,1900,5
+234,Naive Game,Small,1900,5
+234,DynamicGame,Small,2100,5
+235,Naive Game,Small,1300,5
+235,DynamicGame,Small,2000,5
+236,Naive Game,Small,5200,5
+236,DynamicGame,Small,2100,5
+237,Naive Game,Small,400,5
+237,DynamicGame,Small,2000,5
+238,Naive Game,Small,400,5
+238,DynamicGame,Small,2000,5
+239,Naive Game,Small,400,5
+239,DynamicGame,Small,2000,5
+240,Naive Game,Small,300,5
+240,DynamicGame,Small,2000,5
+241,Naive Game,Small,300,5
+241,DynamicGame,Small,2100,5
+242,Naive Game,Small,400,5
+242,DynamicGame,Small,2200,5
+243,Naive Game,Small,400,5
+243,DynamicGame,Small,2100,5
+244,Naive Game,Small,800,5
+244,DynamicGame,Small,2100,5
+245,Naive Game,Small,300,5
+245,DynamicGame,Small,2100,5
+246,Naive Game,Small,200,5
+246,DynamicGame,Small,2000,5
+247,Naive Game,Small,300,5
+247,DynamicGame,Small,3300,5
+248,Naive Game,Small,200,5
+248,DynamicGame,Small,2000,5
+249,Naive Game,Small,300,5
+249,DynamicGame,Small,2100,5
+250,Naive Game,Small,1100,6
+250,DynamicGame,Small,9000,6
+251,Naive Game,Small,1000,6
+251,DynamicGame,Small,4200,6
+252,Naive Game,Small,600,6
+252,DynamicGame,Small,2900,6
+253,Naive Game,Small,600,6
+253,DynamicGame,Small,2800,6
+254,Naive Game,Small,500,6
+254,DynamicGame,Small,2800,6
+255,Naive Game,Small,800,6
+255,DynamicGame,Small,4300,6
+256,Naive Game,Small,500,6
+256,DynamicGame,Small,3000,6
+257,Naive Game,Small,400,6
+257,DynamicGame,Small,2800,6
+258,Naive Game,Small,500,6
+258,DynamicGame,Small,2800,6
+259,Naive Game,Small,400,6
+259,DynamicGame,Small,2800,6
+260,Naive Game,Small,500,6
+260,DynamicGame,Small,2700,6
+261,Naive Game,Small,500,6
+261,DynamicGame,Small,2800,6
+262,Naive Game,Small,400,6
+262,DynamicGame,Small,3100,6
+263,Naive Game,Small,500,6
+263,DynamicGame,Small,2700,6
+264,Naive Game,Small,500,6
+264,DynamicGame,Small,4200,6
+265,Naive Game,Small,500,6
+265,DynamicGame,Small,2600,6
+266,Naive Game,Small,400,6
+266,DynamicGame,Small,2600,6
+267,Naive Game,Small,500,6
+267,DynamicGame,Small,2600,6
+268,Naive Game,Small,400,6
+268,DynamicGame,Small,2600,6
+269,Naive Game,Small,400,6
+269,DynamicGame,Small,4000,6
+270,Naive Game,Small,500,6
+270,DynamicGame,Small,2700,6
+271,Naive Game,Small,500,6
+271,DynamicGame,Small,3400,6
+272,Naive Game,Small,300,6
+272,DynamicGame,Small,2700,6
+273,Naive Game,Small,400,6
+273,DynamicGame,Small,2600,6
+274,Naive Game,Small,300,6
+274,DynamicGame,Small,2800,6
+275,Naive Game,Small,400,6
+275,DynamicGame,Small,2600,6
+276,Naive Game,Small,400,6
+276,DynamicGame,Small,2700,6
+277,Naive Game,Small,400,6
+277,DynamicGame,Small,2700,6
+278,Naive Game,Small,400,6
+278,DynamicGame,Small,2600,6
+279,Naive Game,Small,400,6
+279,DynamicGame,Small,2700,6
+280,Naive Game,Small,400,6
+280,DynamicGame,Small,2600,6
+281,Naive Game,Small,400,6
+281,DynamicGame,Small,4200,6
+282,Naive Game,Small,500,6
+282,DynamicGame,Small,2700,6
+283,Naive Game,Small,400,6
+283,DynamicGame,Small,2700,6
+284,Naive Game,Small,400,6
+284,DynamicGame,Small,2700,6
+285,Naive Game,Small,400,6
+285,DynamicGame,Small,2800,6
+286,Naive Game,Small,300,6
+286,DynamicGame,Small,2600,6
+287,Naive Game,Small,300,6
+287,DynamicGame,Small,2600,6
+288,Naive Game,Small,400,6
+288,DynamicGame,Small,2600,6
+289,Naive Game,Small,400,6
+289,DynamicGame,Small,2600,6
+290,Naive Game,Small,400,6
+290,DynamicGame,Small,2600,6
+291,Naive Game,Small,300,6
+291,DynamicGame,Small,2700,6
+292,Naive Game,Small,400,6
+292,DynamicGame,Small,2700,6
+293,Naive Game,Small,800,6
+293,DynamicGame,Small,2600,6
+294,Naive Game,Small,400,6
+294,DynamicGame,Small,2600,6
+295,Naive Game,Small,400,6
+295,DynamicGame,Small,2600,6
+296,Naive Game,Small,300,6
+296,DynamicGame,Small,2600,6
+297,Naive Game,Small,400,6
+297,DynamicGame,Small,2600,6
+298,Naive Game,Small,300,6
+298,DynamicGame,Small,2700,6
+299,Naive Game,Small,400,6
+299,DynamicGame,Small,2600,6
+300,Naive Game,Small,1100,7
+300,DynamicGame,Small,4700,7
+301,Naive Game,Small,900,7
+301,DynamicGame,Small,3700,7
+302,Naive Game,Small,1000,7
+302,DynamicGame,Small,3500,7
+303,Naive Game,Small,800,7
+303,DynamicGame,Small,3600,7
+304,Naive Game,Small,700,7
+304,DynamicGame,Small,5800,7
+305,Naive Game,Small,800,7
+305,DynamicGame,Small,3400,7
+306,Naive Game,Small,700,7
+306,DynamicGame,Small,3500,7
+307,Naive Game,Small,800,7
+307,DynamicGame,Small,3500,7
+308,Naive Game,Small,700,7
+308,DynamicGame,Small,3500,7
+309,Naive Game,Small,800,7
+309,DynamicGame,Small,4700,7
+310,Naive Game,Small,1200,7
+310,DynamicGame,Small,3400,7
+311,Naive Game,Small,700,7
+311,DynamicGame,Small,3300,7
+312,Naive Game,Small,700,7
+312,DynamicGame,Small,3400,7
+313,Naive Game,Small,700,7
+313,DynamicGame,Small,5000,7
+314,Naive Game,Small,800,7
+314,DynamicGame,Small,3300,7
+315,Naive Game,Small,700,7
+315,DynamicGame,Small,3400,7
+316,Naive Game,Small,700,7
+316,DynamicGame,Small,3300,7
+317,Naive Game,Small,700,7
+317,DynamicGame,Small,3400,7
+318,Naive Game,Small,700,7
+318,DynamicGame,Small,3400,7
+319,Naive Game,Small,600,7
+319,DynamicGame,Small,3400,7
+320,Naive Game,Small,700,7
+320,DynamicGame,Small,3400,7
+321,Naive Game,Small,700,7
+321,DynamicGame,Small,3400,7
+322,Naive Game,Small,1100,7
+322,DynamicGame,Small,3500,7
+323,Naive Game,Small,700,7
+323,DynamicGame,Small,1500,7
+324,Naive Game,Small,700,7
+324,DynamicGame,Small,2700,7
+325,Naive Game,Small,700,7
+325,DynamicGame,Small,1100,7
+326,Naive Game,Small,700,7
+326,DynamicGame,Small,1000,7
+327,Naive Game,Small,700,7
+327,DynamicGame,Small,1000,7
+328,Naive Game,Small,600,7
+328,DynamicGame,Small,1000,7
+329,Naive Game,Small,700,7
+329,DynamicGame,Small,1000,7
+330,Naive Game,Small,600,7
+330,DynamicGame,Small,1000,7
+331,Naive Game,Small,600,7
+331,DynamicGame,Small,900,7
+332,Naive Game,Small,700,7
+332,DynamicGame,Small,900,7
+333,Naive Game,Small,700,7
+333,DynamicGame,Small,900,7
+334,Naive Game,Small,1000,7
+334,DynamicGame,Small,800,7
+335,Naive Game,Small,700,7
+335,DynamicGame,Small,2300,7
+336,Naive Game,Small,600,7
+336,DynamicGame,Small,900,7
+337,Naive Game,Small,700,7
+337,DynamicGame,Small,1000,7
+338,Naive Game,Small,600,7
+338,DynamicGame,Small,900,7
+339,Naive Game,Small,700,7
+339,DynamicGame,Small,800,7
+340,Naive Game,Small,600,7
+340,DynamicGame,Small,900,7
+341,Naive Game,Small,600,7
+341,DynamicGame,Small,900,7
+342,Naive Game,Small,600,7
+342,DynamicGame,Small,1000,7
+343,Naive Game,Small,800,7
+343,DynamicGame,Small,900,7
+344,Naive Game,Small,600,7
+344,DynamicGame,Small,900,7
+345,Naive Game,Small,600,7
+345,DynamicGame,Small,900,7
+346,Naive Game,Small,3900,7
+346,DynamicGame,Small,900,7
+347,Naive Game,Small,600,7
+347,DynamicGame,Small,1000,7
+348,Naive Game,Small,700,7
+348,DynamicGame,Small,2300,7
+349,Naive Game,Small,600,7
+349,DynamicGame,Small,1000,7
+350,Naive Game,Small,1300,8
+350,DynamicGame,Small,2700,8
+351,Naive Game,Small,1200,8
+351,DynamicGame,Small,1200,8
+352,Naive Game,Small,1000,8
+352,DynamicGame,Small,2500,8
+353,Naive Game,Small,1000,8
+353,DynamicGame,Small,1100,8
+354,Naive Game,Small,1000,8
+354,DynamicGame,Small,2400,8
+355,Naive Game,Small,1100,8
+355,DynamicGame,Small,1000,8
+356,Naive Game,Small,900,8
+356,DynamicGame,Small,2400,8
+357,Naive Game,Small,1100,8
+357,DynamicGame,Small,1200,8
+358,Naive Game,Small,1200,8
+358,DynamicGame,Small,2500,8
+359,Naive Game,Small,1000,8
+359,DynamicGame,Small,1100,8
+360,Naive Game,Small,1200,8
+360,DynamicGame,Small,2500,8
+361,Naive Game,Small,800,8
+361,DynamicGame,Small,1000,8
+362,Naive Game,Small,900,8
+362,DynamicGame,Small,2400,8
+363,Naive Game,Small,900,8
+363,DynamicGame,Small,1100,8
+364,Naive Game,Small,900,8
+364,DynamicGame,Small,3100,8
+365,Naive Game,Small,1000,8
+365,DynamicGame,Small,1200,8
+366,Naive Game,Small,900,8
+366,DynamicGame,Small,2700,8
+367,Naive Game,Small,900,8
+367,DynamicGame,Small,1100,8
+368,Naive Game,Small,1000,8
+368,DynamicGame,Small,2500,8
+369,Naive Game,Small,900,8
+369,DynamicGame,Small,1100,8
+370,Naive Game,Small,1300,8
+370,DynamicGame,Small,2600,8
+371,Naive Game,Small,1000,8
+371,DynamicGame,Small,1200,8
+372,Naive Game,Small,1000,8
+372,DynamicGame,Small,2400,8
+373,Naive Game,Small,800,8
+373,DynamicGame,Small,1100,8
+374,Naive Game,Small,900,8
+374,DynamicGame,Small,2500,8
+375,Naive Game,Small,900,8
+375,DynamicGame,Small,1200,8
+376,Naive Game,Small,800,8
+376,DynamicGame,Small,2400,8
+377,Naive Game,Small,1000,8
+377,DynamicGame,Small,1100,8
+378,Naive Game,Small,900,8
+378,DynamicGame,Small,2400,8
+379,Naive Game,Small,800,8
+379,DynamicGame,Small,1100,8
+380,Naive Game,Small,900,8
+380,DynamicGame,Small,2500,8
+381,Naive Game,Small,900,8
+381,DynamicGame,Small,1100,8
+382,Naive Game,Small,1200,8
+382,DynamicGame,Small,2400,8
+383,Naive Game,Small,1300,8
+383,DynamicGame,Small,1200,8
+384,Naive Game,Small,900,8
+384,DynamicGame,Small,2400,8
+385,Naive Game,Small,900,8
+385,DynamicGame,Small,1100,8
+386,Naive Game,Small,900,8
+386,DynamicGame,Small,1100,8
+387,Naive Game,Small,1100,8
+387,DynamicGame,Small,1400,8
+388,Naive Game,Small,1000,8
+388,DynamicGame,Small,1200,8
+389,Naive Game,Small,900,8
+389,DynamicGame,Small,1200,8
+390,Naive Game,Small,1000,8
+390,DynamicGame,Small,1200,8
+391,Naive Game,Small,900,8
+391,DynamicGame,Small,1100,8
+392,Naive Game,Small,900,8
+392,DynamicGame,Small,1100,8
+393,Naive Game,Small,1000,8
+393,DynamicGame,Small,1100,8
+394,Naive Game,Small,1800,8
+394,DynamicGame,Small,1100,8
+395,Naive Game,Small,2200,8
+395,DynamicGame,Small,1100,8
+396,Naive Game,Small,900,8
+396,DynamicGame,Small,1100,8
+397,Naive Game,Small,900,8
+397,DynamicGame,Small,1100,8
+398,Naive Game,Small,800,8
+398,DynamicGame,Small,1000,8
+399,Naive Game,Small,900,8
+399,DynamicGame,Small,1000,8
