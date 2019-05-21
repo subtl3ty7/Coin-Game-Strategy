@@ -7,3 +7,12 @@ In “Coin Game” 2 people play against each other. In front of players there a
 
 There are two important methods here. One is naiveGame(Integer[] bowls) and uses a naive approach to finish the game. Other is dynGame(Integer[] bowls) which uses Dynamic Programming to approach the overlapping subproblems and their optimal solution. bowls is an unsorted array which every array index is a bowl and contains number of coins.
 
+-Running the test class begins a command prompt which asks for user to choose one of available .csv datas to run and test the algorithm.
+
+-Own datas can be put into the folder "instances".
+
+-After finishing testing, program saves the .csv solution in "solutions" folder.
+
+-To evaluate the solution, simply open the plot.html file under "evaluation" folder and upload the solution file there.
+
+-Evaluation function compares solutions Naive Approach and Dynamic Programming Approach.
